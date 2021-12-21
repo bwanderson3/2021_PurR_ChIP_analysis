@@ -112,6 +112,7 @@ for dir in Sample_*; do (cd $dir && samtools index $dir"_sort_filtered.bam"); do
 ## Mapping of coverage and preparation for bootstrapping ##
 Next, reads were filtered with samtools and made into a sampling object using
 the custom script `bootstrap_sam_file.py`'s `parse` option.
+'bootstrap_sam_file.py' is available at https://github.com/mikewolfe/2018_Lrp_ChIP.git
 
 Here  
 arg0 is the sample prefix  
