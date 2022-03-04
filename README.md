@@ -3,6 +3,7 @@
 This directory contains the information on how reads were handled. Raw data are available at GEO accession GSE185164. Have fun!  
 
 This pipeline and these data are published in:
+
 Brent W Anderson, Maria A Schumacher, Jin Yang, Asan Turdiev, Husan Turdiev, Jeremy W Schroeder, Qixiang He, Vincent T Lee, Richard G Brennan, Jue D Wang, The nucleotide messenger (p)ppGpp is an anti-inducer of the purine synthesis transcription regulator PurR in Bacillus, Nucleic Acids Research, Volume 50, Issue 2, 25 January 2022, Pages 847–866, https://doi.org/10.1093/nar/gkab1281
 
 ## Pre-processing of ChIP data ##
